@@ -6,7 +6,7 @@
 ### Phân tích tương quan của các biến đối với biến mục tiêu
 ![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/40859a7e-1168-4c99-aa18-3db9707d0b01)
 \ Kết quả hiện ra cho thấy biến discount có sự tương quan cao nhất đối với biến mục tiêu và tương quan thuận. Đồng nghĩa với việc, giá trị giảm giá có ảnh hưởng cao nhất đến tỉ lệ giảm giá \
-### 10 Sản phẩm bán chạy nhất \
+### 10 Sản phẩm bán chạy nhất 
 ![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/eb5dfb28-3866-4ba2-a330-236e6d5e0207)
 ### 10 cửa hàng có ưu đãi giảm giá nhiều nhất
 ![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/192057ca-7da2-42cd-b29a-186ca9f5e266)
@@ -14,5 +14,3 @@
 ![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/43c8fd01-e73d-40bf-8625-0760a1f7ff02)
 ### Tác giả có số lượng bán chạy nhất
 ![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/c874d255-dee4-4bdc-a4ff-beefd8860c30)
-
-
