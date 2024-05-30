@@ -13,4 +13,5 @@
 ### 10 sản phẩm được yêu thích nhất
 ![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/43c8fd01-e73d-40bf-8625-0760a1f7ff02)
 ### Tác giả có số lượng bán chạy nhất
-![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/c874d255-dee4-4bdc-a4ff-beefd8860c30)
+![image](https://github.com/NV08hv/TikiBookAnalysis/assets/168745635/021f7eb4-e630-4114-ba5f-c158765f2628)
+
